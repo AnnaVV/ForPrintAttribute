@@ -1,0 +1,7 @@
+D:\Softheme_Internship\Printer_Attributes\Printer_Attributes\bin\Debug\Printer_Attributes.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\Printer_Attributes\Printer_Attributes\bin\Debug\Printer_Attributes.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\Printer_Attributes\Printer_Attributes\bin\Debug\Printer_Attributes.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\Printer_Attributes\Printer_Attributes\bin\Debug\Printer_Attributes.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\Printer_Attributes\Printer_Attributes\obj\Debug\Printer_Attributes.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\Printer_Attributes\Printer_Attributes\obj\Debug\Printer_Attributes.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\Printer_Attributes\Printer_Attributes\obj\Debug\Printer_Attributes.pdb
